@@ -1,6 +1,6 @@
 package org.example.chapter2;
 
-import org.junit.jupiter.api.Assertions;
+import org.example.chapter2.domain.BankTransaction;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;

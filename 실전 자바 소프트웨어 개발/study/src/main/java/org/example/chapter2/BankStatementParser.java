@@ -1,5 +1,7 @@
 package org.example.chapter2;
 
+import org.example.chapter2.domain.BankTransaction;
+
 import java.util.List;
 
 public interface BankStatementParser {
